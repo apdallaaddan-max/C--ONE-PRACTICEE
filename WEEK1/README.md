@@ -22,7 +22,7 @@ Here, three string variables are set up to hold the user's name details:
 
 The screenshot below shows how these variables are declared in C#.
 
-![CreatingVariables](Creating Variable.png)
+![CreatingVariables](Creating-Variable.png)
 
 ```csharp
 string FirstName, SecondName, FullName;
@@ -40,7 +40,7 @@ The merged result is saved into the `FullName` variable.
 
 The screenshot below illustrates this concatenation step.
 
-![concatination](concate.png)
+![concatination](concatination.png)
 ---
 
 ## 3. Showing the Full Name
@@ -51,4 +51,4 @@ The label's `.Text` property is used to render the result on the Windows Form.
 
 The screenshot below shows the full name being displayed.
 
-![lblDisplay](DisplayOutput.png)
+![lblDisplay](LblDisplayOutput.png)
