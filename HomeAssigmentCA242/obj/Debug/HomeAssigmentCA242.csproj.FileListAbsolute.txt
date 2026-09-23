@@ -1,0 +1,11 @@
+C:\Users\KCT\Documents\homeAssigment\HomeAssigmentCA242\bin\Debug\HomeAssigmentCA242.exe.config
+C:\Users\KCT\Documents\homeAssigment\HomeAssigmentCA242\bin\Debug\HomeAssigmentCA242.exe
+C:\Users\KCT\Documents\homeAssigment\HomeAssigmentCA242\bin\Debug\HomeAssigmentCA242.pdb
+C:\Users\KCT\Documents\homeAssigment\HomeAssigmentCA242\obj\Debug\HomeAssigmentCA242.csproj.AssemblyReference.cache
+C:\Users\KCT\Documents\homeAssigment\HomeAssigmentCA242\obj\Debug\HomeAssigmentCA242.Form1.resources
+C:\Users\KCT\Documents\homeAssigment\HomeAssigmentCA242\obj\Debug\HomeAssigmentCA242.Properties.Resources.resources
+C:\Users\KCT\Documents\homeAssigment\HomeAssigmentCA242\obj\Debug\HomeAssigmentCA242.csproj.GenerateResource.cache
+C:\Users\KCT\Documents\homeAssigment\HomeAssigmentCA242\obj\Debug\HomeAssigmentCA242.csproj.CoreCompileInputs.cache
+C:\Users\KCT\Documents\homeAssigment\HomeAssigmentCA242\obj\Debug\HomeAssigmentCA242.exe
+C:\Users\KCT\Documents\homeAssigment\HomeAssigmentCA242\obj\Debug\HomeAssigmentCA242.pdb
+C:\Users\KCT\Documents\homeAssigment\HomeAssigmentCA242\obj\Debug\HomeAssigmentCA242.exe.config
