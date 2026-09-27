@@ -1,0 +1,11 @@
+C:\Users\KCT\Documents\homeAssigment\Statement\obj\Debug\Statement.csproj.AssemblyReference.cache
+C:\Users\KCT\Documents\homeAssigment\Statement\obj\Debug\Statement.Form1.resources
+C:\Users\KCT\Documents\homeAssigment\Statement\obj\Debug\Statement.Properties.Resources.resources
+C:\Users\KCT\Documents\homeAssigment\Statement\obj\Debug\Statement.csproj.GenerateResource.cache
+C:\Users\KCT\Documents\homeAssigment\Statement\obj\Debug\Statement.csproj.CoreCompileInputs.cache
+C:\Users\KCT\Documents\homeAssigment\Statement\bin\Debug\Statement.exe.config
+C:\Users\KCT\Documents\homeAssigment\Statement\bin\Debug\Statement.exe
+C:\Users\KCT\Documents\homeAssigment\Statement\bin\Debug\Statement.pdb
+C:\Users\KCT\Documents\homeAssigment\Statement\obj\Debug\Statement.exe
+C:\Users\KCT\Documents\homeAssigment\Statement\obj\Debug\Statement.pdb
+C:\Users\KCT\Documents\homeAssigment\Statement\obj\Debug\Statement.exe.config
