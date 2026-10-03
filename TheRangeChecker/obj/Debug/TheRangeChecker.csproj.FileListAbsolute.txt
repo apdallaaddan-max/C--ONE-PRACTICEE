@@ -1,0 +1,11 @@
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TheRangeChecker\bin\Debug\TheRangeChecker.exe.config
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TheRangeChecker\bin\Debug\TheRangeChecker.exe
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TheRangeChecker\bin\Debug\TheRangeChecker.pdb
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TheRangeChecker\obj\Debug\TheRangeChecker.csproj.AssemblyReference.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TheRangeChecker\obj\Debug\TheRangeChecker.Form1.resources
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TheRangeChecker\obj\Debug\TheRangeChecker.Properties.Resources.resources
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TheRangeChecker\obj\Debug\TheRangeChecker.csproj.GenerateResource.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TheRangeChecker\obj\Debug\TheRangeChecker.csproj.CoreCompileInputs.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TheRangeChecker\obj\Debug\TheRangeChecker.exe
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TheRangeChecker\obj\Debug\TheRangeChecker.pdb
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TheRangeChecker\obj\Debug\TheRangeChecker.exe.config
