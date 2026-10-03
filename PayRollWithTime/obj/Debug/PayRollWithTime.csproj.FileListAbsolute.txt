@@ -1,0 +1,11 @@
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\PayRollWithTime\bin\Debug\PayRollWithTime.exe.config
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\PayRollWithTime\bin\Debug\PayRollWithTime.exe
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\PayRollWithTime\bin\Debug\PayRollWithTime.pdb
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\PayRollWithTime\obj\Debug\PayRollWithTime.csproj.AssemblyReference.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\PayRollWithTime\obj\Debug\PayRollWithTime.Form1.resources
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\PayRollWithTime\obj\Debug\PayRollWithTime.Properties.Resources.resources
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\PayRollWithTime\obj\Debug\PayRollWithTime.csproj.GenerateResource.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\PayRollWithTime\obj\Debug\PayRollWithTime.csproj.CoreCompileInputs.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\PayRollWithTime\obj\Debug\PayRollWithTime.exe
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\PayRollWithTime\obj\Debug\PayRollWithTime.pdb
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\PayRollWithTime\obj\Debug\PayRollWithTime.exe.config
