@@ -1,0 +1,11 @@
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TestScoreAverage\bin\Debug\TestScoreAverage.exe.config
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TestScoreAverage\bin\Debug\TestScoreAverage.exe
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TestScoreAverage\bin\Debug\TestScoreAverage.pdb
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TestScoreAverage\obj\Debug\TestScoreAverage.csproj.AssemblyReference.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TestScoreAverage\obj\Debug\TestScoreAverage.Form1.resources
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TestScoreAverage\obj\Debug\TestScoreAverage.Properties.Resources.resources
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TestScoreAverage\obj\Debug\TestScoreAverage.csproj.GenerateResource.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TestScoreAverage\obj\Debug\TestScoreAverage.csproj.CoreCompileInputs.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TestScoreAverage\obj\Debug\TestScoreAverage.exe
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TestScoreAverage\obj\Debug\TestScoreAverage.pdb
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\TestScoreAverage\obj\Debug\TestScoreAverage.exe.config
