@@ -1,0 +1,11 @@
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\VehicleRantalSystem\bin\Debug\VehicleRantalSystem.exe.config
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\VehicleRantalSystem\bin\Debug\VehicleRantalSystem.exe
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\VehicleRantalSystem\bin\Debug\VehicleRantalSystem.pdb
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\VehicleRantalSystem\obj\Debug\VehicleRantalSystem.csproj.AssemblyReference.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\VehicleRantalSystem\obj\Debug\VehicleRantalSystem.Form1.resources
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\VehicleRantalSystem\obj\Debug\VehicleRantalSystem.Properties.Resources.resources
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\VehicleRantalSystem\obj\Debug\VehicleRantalSystem.csproj.GenerateResource.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\VehicleRantalSystem\obj\Debug\VehicleRantalSystem.csproj.CoreCompileInputs.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\VehicleRantalSystem\obj\Debug\VehicleRantalSystem.exe
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\VehicleRantalSystem\obj\Debug\VehicleRantalSystem.pdb
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\VehicleRantalSystem\obj\Debug\VehicleRantalSystem.exe.config
