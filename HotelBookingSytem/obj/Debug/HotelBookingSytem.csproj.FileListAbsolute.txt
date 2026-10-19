@@ -1,0 +1,11 @@
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\HotelBookingSytem\bin\Debug\HotelBookingSytem.exe.config
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\HotelBookingSytem\bin\Debug\HotelBookingSytem.exe
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\HotelBookingSytem\bin\Debug\HotelBookingSytem.pdb
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\HotelBookingSytem\obj\Debug\HotelBookingSytem.csproj.AssemblyReference.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\HotelBookingSytem\obj\Debug\HotelBookingSytem.Form1.resources
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\HotelBookingSytem\obj\Debug\HotelBookingSytem.Properties.Resources.resources
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\HotelBookingSytem\obj\Debug\HotelBookingSytem.csproj.GenerateResource.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\HotelBookingSytem\obj\Debug\HotelBookingSytem.csproj.CoreCompileInputs.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\HotelBookingSytem\obj\Debug\HotelBookingSytem.exe
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\HotelBookingSytem\obj\Debug\HotelBookingSytem.pdb
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\HotelBookingSytem\obj\Debug\HotelBookingSytem.exe.config
