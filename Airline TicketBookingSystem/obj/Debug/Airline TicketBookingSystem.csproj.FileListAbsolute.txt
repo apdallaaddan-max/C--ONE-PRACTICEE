@@ -1,0 +1,11 @@
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\Airline TicketBookingSystem\bin\Debug\Airline TicketBookingSystem.exe.config
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\Airline TicketBookingSystem\bin\Debug\Airline TicketBookingSystem.exe
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\Airline TicketBookingSystem\bin\Debug\Airline TicketBookingSystem.pdb
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\Airline TicketBookingSystem\obj\Debug\Airline TicketBookingSystem.csproj.AssemblyReference.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\Airline TicketBookingSystem\obj\Debug\Airline_TicketBookingSystem.Form1.resources
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\Airline TicketBookingSystem\obj\Debug\Airline_TicketBookingSystem.Properties.Resources.resources
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\Airline TicketBookingSystem\obj\Debug\Airline TicketBookingSystem.csproj.GenerateResource.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\Airline TicketBookingSystem\obj\Debug\Airline TicketBookingSystem.csproj.CoreCompileInputs.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\Airline TicketBookingSystem\obj\Debug\Airline TicketBookingSystem.exe
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\Airline TicketBookingSystem\obj\Debug\Airline TicketBookingSystem.pdb
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\Airline TicketBookingSystem\obj\Debug\Airline TicketBookingSystem.exe.config
