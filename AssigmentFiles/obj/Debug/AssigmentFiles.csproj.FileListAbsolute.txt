@@ -1,0 +1,11 @@
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\AssigmentFiles\bin\Debug\AssigmentFiles.exe.config
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\AssigmentFiles\bin\Debug\AssigmentFiles.exe
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\AssigmentFiles\bin\Debug\AssigmentFiles.pdb
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\AssigmentFiles\obj\Debug\AssigmentFiles.csproj.AssemblyReference.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\AssigmentFiles\obj\Debug\AssigmentFiles.Form1.resources
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\AssigmentFiles\obj\Debug\AssigmentFiles.Properties.Resources.resources
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\AssigmentFiles\obj\Debug\AssigmentFiles.csproj.GenerateResource.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\AssigmentFiles\obj\Debug\AssigmentFiles.csproj.CoreCompileInputs.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\AssigmentFiles\obj\Debug\AssigmentFiles.exe
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\AssigmentFiles\obj\Debug\AssigmentFiles.pdb
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\AssigmentFiles\obj\Debug\AssigmentFiles.exe.config
