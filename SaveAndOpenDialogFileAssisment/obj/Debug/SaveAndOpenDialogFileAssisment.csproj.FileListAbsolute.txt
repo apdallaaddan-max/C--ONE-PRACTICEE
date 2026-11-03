@@ -1,0 +1,11 @@
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\SaveAndOpenDialogFileAssisment\bin\Debug\SaveAndOpenDialogFileAssisment.exe.config
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\SaveAndOpenDialogFileAssisment\bin\Debug\SaveAndOpenDialogFileAssisment.exe
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\SaveAndOpenDialogFileAssisment\bin\Debug\SaveAndOpenDialogFileAssisment.pdb
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\SaveAndOpenDialogFileAssisment\obj\Debug\SaveAndOpenDialogFileAssisment.csproj.AssemblyReference.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\SaveAndOpenDialogFileAssisment\obj\Debug\SaveAndOpenDialogFileAssisment.Form1.resources
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\SaveAndOpenDialogFileAssisment\obj\Debug\SaveAndOpenDialogFileAssisment.Properties.Resources.resources
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\SaveAndOpenDialogFileAssisment\obj\Debug\SaveAndOpenDialogFileAssisment.csproj.GenerateResource.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\SaveAndOpenDialogFileAssisment\obj\Debug\SaveAndOpenDialogFileAssisment.csproj.CoreCompileInputs.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\SaveAndOpenDialogFileAssisment\obj\Debug\SaveAndOpenDialogFileAssisment.exe
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\SaveAndOpenDialogFileAssisment\obj\Debug\SaveAndOpenDialogFileAssisment.pdb
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\SaveAndOpenDialogFileAssisment\obj\Debug\SaveAndOpenDialogFileAssisment.exe.config
