@@ -1,0 +1,11 @@
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\EmplooyeeAttendence\bin\Debug\EmplooyeeAttendence.exe.config
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\EmplooyeeAttendence\bin\Debug\EmplooyeeAttendence.exe
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\EmplooyeeAttendence\bin\Debug\EmplooyeeAttendence.pdb
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\EmplooyeeAttendence\obj\Debug\EmplooyeeAttendence.csproj.AssemblyReference.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\EmplooyeeAttendence\obj\Debug\EmplooyeeAttendence.Form1.resources
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\EmplooyeeAttendence\obj\Debug\EmplooyeeAttendence.Properties.Resources.resources
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\EmplooyeeAttendence\obj\Debug\EmplooyeeAttendence.csproj.GenerateResource.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\EmplooyeeAttendence\obj\Debug\EmplooyeeAttendence.csproj.CoreCompileInputs.cache
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\EmplooyeeAttendence\obj\Debug\EmplooyeeAttendence.exe
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\EmplooyeeAttendence\obj\Debug\EmplooyeeAttendence.pdb
+C:\Users\KCT\OneDrive\Desktop\C#WORK\C# ONE PRACTICE\Week2\EmplooyeeAttendence\obj\Debug\EmplooyeeAttendence.exe.config
